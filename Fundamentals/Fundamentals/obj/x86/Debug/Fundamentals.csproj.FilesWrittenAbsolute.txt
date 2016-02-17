@@ -1,0 +1,5 @@
+/Users/paulamarciante/Projects/Fundamentals/Fundamentals/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/paulamarciante/Projects/Fundamentals/Fundamentals/bin/Debug/Fundamentals.exe.mdb
+/Users/paulamarciante/Projects/Fundamentals/Fundamentals/bin/Debug/Fundamentals.exe
+/Users/paulamarciante/Projects/Fundamentals/Fundamentals/obj/x86/Debug/Fundamentals.exe
+/Users/paulamarciante/Projects/Fundamentals/Fundamentals/obj/x86/Debug/Fundamentals.exe.mdb

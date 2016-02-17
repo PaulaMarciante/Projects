@@ -1,0 +1,5 @@
+/Users/paulamarciante/Projects/FirstApp4/FirstApp4/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/paulamarciante/Projects/FirstApp4/FirstApp4/bin/Debug/FirstApp4.exe.mdb
+/Users/paulamarciante/Projects/FirstApp4/FirstApp4/bin/Debug/FirstApp4.exe
+/Users/paulamarciante/Projects/FirstApp4/FirstApp4/obj/x86/Debug/FirstApp4.exe
+/Users/paulamarciante/Projects/FirstApp4/FirstApp4/obj/x86/Debug/FirstApp4.exe.mdb
